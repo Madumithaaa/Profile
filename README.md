@@ -38,14 +38,13 @@
 🚀 **Project: ClaraGlo (Skincare Website)**  
 - Built using HTML, CSS, JavaScript  
 - Clean UI & user-friendly design  
-- Helps users explore skincare products easily  
 
 ---
 
 🏢 **Internship Experience**
 - 5-month internship at **Infinite Horizon Enterprises**  
 - Worked on Web Development & Python  
-- Gained hands-on practical experience  
+ 
 
 ---
 
@@ -66,36 +65,23 @@
 
 ---
 
+## 🌐 Languages
+- Kannada  
+- English  
+
+---
+
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madumitha-11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madumitha-11&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madumitha-11&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements
 
 ✨ Completed Web Development & Python Internship  
 ✨ Built ClaraGlo full project  
-✨ Learning API & Backend  
+✨ Learning API & Backend,frontend 
 
 ---
 
