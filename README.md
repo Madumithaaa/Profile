@@ -70,17 +70,15 @@
 - English  
 
 ---
-
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode" />
 </p>
 
 ## 🏆 Achievements
 
-✨ Completed Web Development & Python Internship  
-✨ Built ClaraGlo full project  
+✨ Completed Web Development & Python Internship   
 ✨ Learning API & Backend,frontend 
 
 ---
